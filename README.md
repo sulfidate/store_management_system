@@ -3,7 +3,7 @@ Designing a Management System from Scratch with SQL Alchemy
 
 I build this project following the brilliant instructions by Josh Wenner in his new [Project X #7](https://open.substack.com/pub/thenerdnook/p/project-x-7?r=4b01bc&utm_campaign=post&utm_medium=email). 
 
-You can find this on his great website [The Nerd Nook](https://thenerdnook.substack.com)
+You can find this on his website [The Nerd Nook](https://thenerdnook.substack.com)
 
 ## Project Overview
 
